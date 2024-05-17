@@ -32,7 +32,7 @@ public class UnitTestingTest {
         UnitTesting ut = new UnitTesting();
         
         int expected = 6;
-        int actual = ut.addition(10,4);
+        int actual = ut.subtraction(10,4);
         
         assertEquals(expected,actual);
         
