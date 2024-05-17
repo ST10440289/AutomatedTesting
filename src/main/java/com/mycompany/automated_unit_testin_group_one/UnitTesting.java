@@ -19,6 +19,6 @@ public class UnitTesting {
     }
     
     public String message(){
-        return "Helloe World!";
+        return "Hello World!";
     }
 }
